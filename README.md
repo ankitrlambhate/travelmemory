@@ -172,7 +172,7 @@ Point domain to ALB DNS:
 example.com -> my-alb-123.ap-south-1.elb.amazonaws.com
 
 A Record
-Point subdomain to EC2 instance:
+Point domain to the EC2 instance:
 test.example.com -> EC2_PUBLIC_IP
 
 
